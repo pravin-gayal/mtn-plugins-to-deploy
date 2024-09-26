@@ -1,0 +1,43 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "dnpatel308",
+  "signedByOrgName": "dnpatel308",
+  "rootUrls": [
+    "http://localhost/ICRYPTO/"
+  ],
+  "plugin": "es-datasource",
+  "version": "1.0.0",
+  "time": 1727365052525,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
+    "gpx_es-datasource_linux_arm64": "a37faf47d49f1385543e2c4a281aba3a4d5f3d9dd27bc93eedc1a23b5a2d2bd5",
+    "gpx_es-datasource_darwin_arm64": "07e56060e1f1f1d3df6f2a4cc4dd1dab7fd0585d98a5fe566b824300f88b9b5c",
+    "module.js.map": "18fb93b6859a316a3334a87e03798b1aef60587bbb71a6e47d2a957cc401b1fe",
+    "plugin.json": "f89747f11b90b08a089d4c362a5687e0b22ee3dd1e32efb92c520529d4fe1482",
+    "README.md": "e2bf61b669a9fc12200cf5d4f54505d27ea1f50a73c15e091a1dda659a942cff",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "module.js": "33124e1d3f1cbcdb5315a251047f1a3d8840f5125c87df7248a4e4ffbf2c7257",
+    "gpx_es-datasource_windows_amd64.exe": "0a504c7fa47994c958fe15fe4d8efa2c5b6dd1087777269d56e9954078fedb7e",
+    "gpx_es-datasource_linux_arm": "2177ca282cf20ecb3f406874f38cab1b6c1b5d455689a25921556989b7256170",
+    "gpx_es-datasource_linux_amd64": "7f73e4e64e38f22bbbdf4a8a265410bbb0eb3e8142be342ddcd50f1b40dab119",
+    "gpx_es-datasource_darwin_amd64": "c92401c78a842aa0917c574123825b5319a657c5b1379b8a512b98e80e82bc24"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.11
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmb1f7wAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm59cuAgkAtpcgJ3NHSqsFAvP1EMMQzKIwxHqAA/LXLCj0MN2ONsTuihNO
+4vcPFB6JGfvjZwVhrP5YAc/8tY06zCVHJ5CmycoCCQGL0zLCfa7/TDJl52PQ
+0fRPsWOmVyisrfny0sEiwi1qMBJUxKhFpHMZSfORwePy+OfDPdIr2QCJvbzQ
+Rq3dWbVd1A==
+=iwAv
+-----END PGP SIGNATURE-----

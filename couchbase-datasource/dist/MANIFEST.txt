@@ -1,0 +1,43 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "dnpatel308",
+  "signedByOrgName": "dnpatel308",
+  "rootUrls": [
+    "https://saw-mcaaa-fl.mtn.co.za/ICRYPTO/"
+  ],
+  "plugin": "couchbase-datasource",
+  "version": "1.0.0",
+  "time": 1727364832914,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "gpx_couchbase-datasource_darwin_amd64": "ab2ba37a79859df08cf041edd9989bdeda1bc53e311e96d6ecb305221a1586e2",
+    "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
+    "gpx_couchbase-datasource_linux_amd64": "f89e880a1141015543119ef4ec3396c1a866959ade65728d2a06ca2bfc35ff21",
+    "module.js.map": "268b1b5e809c870ac41c0232275d0c9a11912c42d24c54e5d49029817c21c42e",
+    "plugin.json": "514bffd50c1ead3fd9e37b5ed788f812c89899aa3da558eca0b906c96bf1f43e",
+    "README.md": "45e0809b871b189d6bd9ad5b3c6095866dabec6646cae767d072b3e6b6b5c8b8",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "module.js": "91b126d57b681c8fcf4b2e0e68b33b70318baf51a3e08c822cc6b3a86fa6cf7d",
+    "gpx_couchbase-datasource_darwin_arm64": "73f37efc3130461882cade807da368ff2d7415f6b93dbad1842c4e4655ce4b9b",
+    "gpx_couchbase-datasource_windows_amd64.exe": "e263e13e7a3d608ef79ed5ebb5f79d569e7fe5d4eee291d2a8f08954b8e77407",
+    "gpx_couchbase-datasource_linux_arm64": "da50126e45f16ca5fc5b454e107166af0460813dcc4ceda972366476a0c013ba",
+    "gpx_couchbase-datasource_linux_arm": "9a32e2478c7d7c631f4a5934a775b46e34b22b0234a4edf9af1eac15b3aeb14b"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.11
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmb1fuEAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm57ToAgkAlOBbOSqGagoGwwUGHemHw6VsWwRZJBje+cUC3GuWGVmbCQ5o
+9/LM4/k97w/mN4K0DQorW6hu+hANhZQa0qHPnzgCCQFtvVRxlXn6D5O/+Qya
+ZO88M9idMkruA6Hk9S75O54AYUi/zIujRyH4wPAhdzenZ7pgp0lIs7GtmGYb
+6bk41ejHIw==
+=Ct5U
+-----END PGP SIGNATURE-----

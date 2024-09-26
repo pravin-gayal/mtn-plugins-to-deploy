@@ -1,0 +1,36 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "dnpatel308",
+  "signedByOrgName": "dnpatel308",
+  "rootUrls": [
+    "http://localhost/ICRYPTO/"
+  ],
+  "plugin": "elasticsearch-datasource",
+  "version": "1.0.0",
+  "time": 1727364974529,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
+    "plugin.json": "636bc1b66f8ad168322ee14ed3e9884a6d5d7da85e5239557d5cb1c1946a7dee",
+    "README.md": "f1a0a2527a53fd88690c721296c22cbb5a02242eb4056a349853f683a7129db5",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "module.js": "c5a27c6aa55498e1e23dba1af17f3ebe1b624104796647c33599deadd7531696"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.11
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmb1f24AIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5xURAgkAD6Ebtg73Ehph5AEVvG0WfCsMrBHHT57t7DQmfg/gmQjsX7kz
+XAo7mb2dc2/+WKGcxNr9SsNsENsYK6Z2N5C/ep8CCQGU6PHZPZKREClHyrJn
+3TA1299r08APqBt7dHRfkwvTR0Aa3lgqFK8aoCcS9Sk2yDI+2T2LKihaJKwI
+FLnjHUBbeQ==
+=7tH+
+-----END PGP SIGNATURE-----
