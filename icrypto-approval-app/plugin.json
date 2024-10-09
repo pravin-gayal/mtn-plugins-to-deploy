@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "app",
+  "name": "Approval App",
+  "id": "icrypto-approval-app",
+  "info": {
+    "keywords": ["app"],
+    "description": "Approval app",
+    "author": {
+      "name": "Icrypto"
+    },
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "screenshots": [],
+    "version": "1.0.2",
+    "updated": "2024-06-30"
+  },
+  "includes": [
+    {
+      "type": "page",
+      "name": "Hello world",
+      "path": "/a/icrypto-approval-app/hello-world",
+      "role": "Admin",
+      "addToNav": true,
+      "defaultNav": false
+    },
+    {
+      "type": "page",
+      "icon": "cog",
+      "name": "Configuration",
+      "path": "/plugins/icrypto-approval-app",
+      "role": "Admin",
+      "addToNav": true
+    }
+  ],
+  "dependencies": {
+    "grafanaDependency": ">=10.0.3",
+    "plugins": []
+  },
+  "routes": [
+    {
+      "path": "truesa",
+      "url": "http://192.168.1.151:8002"
+    }
+  ]
+}
