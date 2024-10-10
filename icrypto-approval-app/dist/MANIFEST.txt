@@ -8,31 +8,31 @@ Hash: SHA512
   "signedByOrg": "dnpatel308",
   "signedByOrgName": "dnpatel308",
   "rootUrls": [
-    "http://localhost/ICRYPTO-LATEST/"
+    "http://localhost/ICRYPTO/"
   ],
   "plugin": "icrypto-approval-app",
   "version": "1.0.2",
-  "time": 1719776816871,
+  "time": 1728565733777,
   "keyId": "7e4d0c6a708866e7",
   "files": {
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
     "module.js.LICENSE.txt": "0d7e607c612ee83da74a1e1b7cad2435a18a6da64800b6cd3acbfcecd10fbfbd",
+    "module.js.map": "ac920ac51ea2e470fca3e7551b284b15b4aa4f31e8a0724fbe17eb51eaed64ad",
     "plugin.json": "409a8f17f35ae6d9442fc9a48e024d3acf29fa02b24a5a3e45a43e89fe28e650",
     "README.md": "f591c1edc723293b7ebe47e153f5d3c24b01a8fcdba2ba05c7893608cd50f40b",
     "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
-    "module.js.map": "ac920ac51ea2e470fca3e7551b284b15b4aa4f31e8a0724fbe17eb51eaed64ad",
-    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
-    "module.js": "2f26cd2567082a3eab9321b42f5771330b8d79cfa510f12c0e0e9ad38bad2ab7",
-    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851"
+    "module.js": "2f26cd2567082a3eab9321b42f5771330b8d79cfa510f12c0e0e9ad38bad2ab7"
   }
 }
 -----BEGIN PGP SIGNATURE-----
 Version: OpenPGP.js v4.10.11
 Comment: https://openpgpjs.org
 
-wrkEARMKAAYFAmaBtjEAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm5927AgkBjCs8HJKsjbypMEADwluIPncfiiRathfaqV4XPbGKKHWk/Eyw
-kFwIQokDV+Ddr9QJUCFjFA+CKamtwA0LGTLp8xoCCQGJc952VeqUa2uUwtBb
-aWj7mzb660OA/4xniJJWGD3/oArNTmnUI2fvuTlDFUta+gi2AFNExf4ETPE5
-+a6O45hr3w==
-=E+Tp
+wrkEARMKAAYFAmcH0eUAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5+G7AgkAHL39uaA0zyrJlKiQxJuiZMYHSlshYhwwgZwSokw2oAf0n3Mc
+bo6zQiXr+YH/4G7HUvUrhC9UTmegdl2kSOGUUkICCQAXDLol0fN0BJdwtCBv
+21EBzYTj8rSeL47Ih5GfYvrPXwhhJXwFTc4Ybi6K2lkBS4m28RDV0NzXXwMK
+W2nXm0eM4w==
+=dhR0
 -----END PGP SIGNATURE-----
