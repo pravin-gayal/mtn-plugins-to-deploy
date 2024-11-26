@@ -8,19 +8,24 @@ Hash: SHA512
   "signedByOrg": "dnpatel308",
   "signedByOrgName": "dnpatel308",
   "rootUrls": [
-    "http://localhost/ICRYPTO/"
+    "http://localhost/ICRYPTO/",
+    "https://truesa.vodacom.co.za/ICRYPTO/",
+    "https://saw-mcaaa-fl.mtn.co.za/ICRYPTO/"
   ],
   "plugin": "grafana-googlemap-panel",
   "version": "1.0.0",
-  "time": 1727365142858,
+  "time": 1732641663255,
   "keyId": "7e4d0c6a708866e7",
   "files": {
+    ".DS_Store": "116b58c14a07fa1b36fadd6ebd47fe87e35ab000ec9a50aa59806980b3a4d441",
     "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
     "module.js.LICENSE.txt": "e7799a86329d59255eab5dc085152a4f260e695206e610591c0298e285a23549",
     "module.js.map": "9a1d611dc1531360a535316cffd8aba36b0ff453399bc271da7d9cec2eba5531",
-    "plugin.json": "31fd5aee54f1c02e91d9da966657b0fbaf8058d5931018df704059fd1d8969ef",
+    "plugin.json": "e32fe11c60fc803444a72d43c0e09c6ecc660309c01c8961056642b13db01c19",
     "README.md": "e77fb5c8dbd91b6a1ed12843fc2ec4c61b130ea54b19bfc439faa6959dde6bcf",
     "img/293a01b90352e633fdea.svg": "2ba9f9bb5fb2f3e094955dd68c25d85fc38112d7bcc7639aff6a9d75df093a45",
+    "img/.DS_Store": "ab4fd7b93e840bd69cc18004ce5b54059c65a7204c095cffefedc0b51a3bb675",
     "img/7b3f11621031f8c5ba71.png": "22c54e99227fc9f71d3845bb0b416bc8ca957cdbcf7f4a828ad580dd6b26c35f",
     "img/556a5478180247ab917a.png": "e06f25763d545f4d8d85dd602736fbb1eb252a68bc17346b8b3bb7f33f513630",
     "img/ic_terrain-1x.png": "75811e3bce4e9a6bf2c43c0ab8e291ac6edd68fd8330a76709a355ebdf9fdf5f",
@@ -36,6 +41,7 @@ Hash: SHA512
     "img/ic_satellite-1x.png": "e06f25763d545f4d8d85dd602736fbb1eb252a68bc17346b8b3bb7f33f513630",
     "img/icon_tilt_view.png": "7853bb3726688b691c1e5e3eeff12790b9e882df1b03839de95c816d73b6a43c",
     "img/1f6626d9cd23bff39570.png": "7853bb3726688b691c1e5e3eeff12790b9e882df1b03839de95c816d73b6a43c",
+    "img/move_markers.png": "eb731bd93ef59d946599840d5e7ce17148d4cf042ef33ecfcdcdbba23a939c10",
     "img/icon_netcool.svg": "0f16295710c6cf03075b621bc2c8b595e6425b4a7ca63f10a36a6f54e8d222bd",
     "img/ic_bicycling_colors2-1x.png": "64fa09cbb5d3db4f03c823c6b9bbd33c7e9330bdc1d69b4aca36f36638d9d987",
     "img/0db3d1d62ee22ac19399.png": "f491f55e394e12bf5c5c3f7c50b023aee19a08dc76a6e73abf275e8ef6e2b4c3",
@@ -43,18 +49,17 @@ Hash: SHA512
     "img/logo.svg": "89332bb9fb2c9acdac3da804a1c553bf85f29e3b8e936a9825a5355846fc1530",
     "img/14f9e2fd7a8163677e8e.svg": "4c6cc4c4f09da622c30259c2ef426eb7c5f7adc4c905e125a569ae827b4cb380",
     "img/ic_measure_colors2-1x.png": "f491f55e394e12bf5c5c3f7c50b023aee19a08dc76a6e73abf275e8ef6e2b4c3",
-    "module.js": "67f6d50780e11acc5bc6fc4fd2fa942323df56515208b6d1715338b3434ca834",
-    "move_markers.png": "eb731bd93ef59d946599840d5e7ce17148d4cf042ef33ecfcdcdbba23a939c10"
+    "module.js": "37a395aaabc4948e8f898439c41c19814e2790f7f130d67f810c27ae961541c1"
   }
 }
 -----BEGIN PGP SIGNATURE-----
 Version: OpenPGP.js v4.10.11
 Comment: https://openpgpjs.org
 
-wrkEARMKAAYFAmb1gBcAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm58j8AgkAkRXbZ1nTFa3rDu8Ei9K43qTBYxbIoov3LGQ2Ms5CAYsJN8TB
-FJg0XoO1oVIXWkWltNZBgKZD/LaOTfmtCiJ7S1gCCQEI/s/s5q8iX4oiabQ4
-UgXd+HlBlL1D2+m3lDpNwPcM738VdzwahtEwiyuWjoedoC/m1Ezj+n3K5qXS
-PtyKmpeyZw==
-=OahV
+wrkEARMKAAYFAmdGA38AIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm572NAgkBT+g4SPwGep0MpJrFxlEAjTNSaAOr8MbiUfTt8J/+pq8oRdDe
+nGVPhLfeViaBFG4icB3vpd3zQmkuLWVatjTK5m0CCQGRDgdhRgvM34r4AeLf
+fWb53rsvoLovPnouJ3PjcpqH2h/Jg0fuCsfAcSqlXftkC+7NBvZmX9k/siVr
+nq/ciUX0JQ==
+=5za7
 -----END PGP SIGNATURE-----

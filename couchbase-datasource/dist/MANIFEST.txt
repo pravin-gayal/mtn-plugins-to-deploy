@@ -8,11 +8,13 @@ Hash: SHA512
   "signedByOrg": "dnpatel308",
   "signedByOrgName": "dnpatel308",
   "rootUrls": [
-    "http://localhost/ICRYPTO/"
+    "http://localhost/ICRYPTO/",
+    "https://truesa.vodacom.co.za/ICRYPTO/",
+    "https://saw-mcaaa-fl.mtn.co.za/ICRYPTO/"
   ],
   "plugin": "couchbase-datasource",
   "version": "1.0.0",
-  "time": 1727367449347,
+  "time": 1732641659372,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "gpx_couchbase-datasource_darwin_amd64": "ab2ba37a79859df08cf041edd9989bdeda1bc53e311e96d6ecb305221a1586e2",
@@ -34,10 +36,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.11
 Comment: https://openpgpjs.org
 
-wrkEARMKAAYFAmb1iRkAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm5/LFAgkBPYl2G+qRS5YB33dYLZOCqrssD8e9+uXah076XbzTYIUIfVa6
-3nDpbBUH2pQ8nHtTXryDpiDJqQorafCQI6OCvPcCCQCNH5o+roF8lrZepOtw
-HleP9S4w4wGHWzJ2Ex3wWZd0X3Od/cJnw6tnB9Xh87CdQzh4JVdOIY5ti/Vz
-y+7qd3qI3g==
-=zjPJ
+wrkEARMKAAYFAmdGA3sAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm50s3AgkALz3yCCnD+i6VWPWLEqBSj1hFUt+g259PYcL7qK0y7QCYarE4
+9SblBlMzZmf9ZR9pqCoIPPhCOBYNdeP2MzifjjACCQCOk/kCYbv1qnKQjfLV
+Xq5vBh2fkFxSQY9my9Eew9z9x9L4aJXQwVQl3hjI9meVc6poWXrJGwfsIolB
+A0fFls/Fgw==
+=hUNY
 -----END PGP SIGNATURE-----

@@ -8,11 +8,13 @@ Hash: SHA512
   "signedByOrg": "dnpatel308",
   "signedByOrgName": "dnpatel308",
   "rootUrls": [
-    "http://localhost/ICRYPTO/"
+    "http://localhost/ICRYPTO/",
+    "https://truesa.vodacom.co.za/ICRYPTO/",
+    "https://saw-mcaaa-fl.mtn.co.za/ICRYPTO/"
   ],
   "plugin": "icrypto-approval-app-backend",
   "version": "1.0.0",
-  "time": 1728565714454,
+  "time": 1732641665886,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
@@ -28,10 +30,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.11
 Comment: https://openpgpjs.org
 
-wrkEARMKAAYFAmcH0dIAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm55ZgAgkBNd0eleBKrZb5R5wS4Y93CXJlYmi7xr6h0KBMa9ZFcroEqxpW
-E73bwaBoo7l8+r14HuUnUZX/BlGUkIXsZbZgRoUCCQCObMZShnUQe4+jZw6P
-CVe7czlbGK4+CbyQ9mfjtaaaDZmSW8FibpUI65Xbdn2roXh8u2b8aAwzt4Ob
-Z0dn26n3Qg==
-=aiBr
+wrkEARMKAAYFAmdGA4IAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5wPMAgkBO8fELeZbO7uHL+Oj+Yu+AaKWq03HtIHw7cHSaCsHwy2RPHen
+DPRBJ57vwfN4jv9OTQRMvmXv4eJ0ThAf6XAOrUcCCQHFRlHZFj5WasgEfNco
+FUvvOwiviwIWg3EZAop1K+Tq98utclEy+UJX3TcfDQKpdi0ZLUnZCasSoNIn
+HeI/2WKq4A==
+=0dUU
 -----END PGP SIGNATURE-----
