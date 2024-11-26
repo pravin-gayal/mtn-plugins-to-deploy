@@ -14,7 +14,7 @@ Hash: SHA512
   ],
   "plugin": "icrypto-approval-app",
   "version": "1.0.2",
-  "time": 1732641664441,
+  "time": 1732643670952,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
@@ -31,10 +31,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.11
 Comment: https://openpgpjs.org
 
-wrkEARMKAAYFAmdGA4AAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm51rHAgkA/2N1dRS3+Xj1K108Felx5yLQzC41U1z3DiOuWETrJ88kPtO2
-oBUhGpYAaO7e2T3R4VwUREzD0yUq6A2rG44ruFgCCQFv/uXYNfjUpMWNXxxk
-yCqSw9WvrbeuMWx+W53AiUoRvAPGBC0UEB8UT33k+SXaIsZkI+vZy7tG7x68
-j+JD2/VdxA==
-=MJQK
+wrkEARMKAAYFAmdGC1cAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm51l5AgkB2Ynshu3eZHRJ+vT/TnIfEqL0xYYcBWNQjT9ouYZpq62ACZvT
+7ss4Gnwyru05SOq6LCrwgG58P1sLp8ftROc7Ro4CCQEAZVIyYPMkyhXN6xeX
+Qek/sT15JwwuN08aKrffHJzL40c14wcRrmSGGsQQ2/bVbfIXQjKYOz+/gM9M
+vlW50OaPhw==
+=U4s6
 -----END PGP SIGNATURE-----

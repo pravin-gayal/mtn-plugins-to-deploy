@@ -14,10 +14,9 @@ Hash: SHA512
   ],
   "plugin": "grafana-googlemap-panel",
   "version": "1.0.0",
-  "time": 1732641663255,
+  "time": 1732643669750,
   "keyId": "7e4d0c6a708866e7",
   "files": {
-    ".DS_Store": "116b58c14a07fa1b36fadd6ebd47fe87e35ab000ec9a50aa59806980b3a4d441",
     "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
     "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
     "module.js.LICENSE.txt": "e7799a86329d59255eab5dc085152a4f260e695206e610591c0298e285a23549",
@@ -25,7 +24,6 @@ Hash: SHA512
     "plugin.json": "e32fe11c60fc803444a72d43c0e09c6ecc660309c01c8961056642b13db01c19",
     "README.md": "e77fb5c8dbd91b6a1ed12843fc2ec4c61b130ea54b19bfc439faa6959dde6bcf",
     "img/293a01b90352e633fdea.svg": "2ba9f9bb5fb2f3e094955dd68c25d85fc38112d7bcc7639aff6a9d75df093a45",
-    "img/.DS_Store": "ab4fd7b93e840bd69cc18004ce5b54059c65a7204c095cffefedc0b51a3bb675",
     "img/7b3f11621031f8c5ba71.png": "22c54e99227fc9f71d3845bb0b416bc8ca957cdbcf7f4a828ad580dd6b26c35f",
     "img/556a5478180247ab917a.png": "e06f25763d545f4d8d85dd602736fbb1eb252a68bc17346b8b3bb7f33f513630",
     "img/ic_terrain-1x.png": "75811e3bce4e9a6bf2c43c0ab8e291ac6edd68fd8330a76709a355ebdf9fdf5f",
@@ -56,10 +54,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.11
 Comment: https://openpgpjs.org
 
-wrkEARMKAAYFAmdGA38AIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm572NAgkBT+g4SPwGep0MpJrFxlEAjTNSaAOr8MbiUfTt8J/+pq8oRdDe
-nGVPhLfeViaBFG4icB3vpd3zQmkuLWVatjTK5m0CCQGRDgdhRgvM34r4AeLf
-fWb53rsvoLovPnouJ3PjcpqH2h/Jg0fuCsfAcSqlXftkC+7NBvZmX9k/siVr
-nq/ciUX0JQ==
-=5za7
+wrkEARMKAAYFAmdGC1UAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5+rYAgkAgzv9GX3ieiymfmy1ZKTY20d7nuMvHQwNOf/AlTk7jvlv44ju
+9db31bkpivFcsH2GKO4YEZ3i/OL7aHiFbmG9F9gCCQGpka5sW7oV1znXO7BK
+xbUigC3yJGpFmLgmKIOjycpUK7jEfoWbPxvZOeMGX2QSD5u/s6OeUcabmuFT
+eY4ZyCg9WA==
+=Nbo8
 -----END PGP SIGNATURE-----
